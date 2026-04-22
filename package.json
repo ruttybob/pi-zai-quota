@@ -1,0 +1,9 @@
+{
+  "name": "zai-quota",
+  "version": "1.0.0",
+  "description": "Pi extension — show ZAI API quota usage as a TUI overlay dashboard",
+  "private": true,
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
