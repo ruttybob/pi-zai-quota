@@ -1,6 +1,6 @@
 # zai-quota
 
-Pi extension that displays your Z.ai API quota usage as a TUI overlay dashboard.
+Pi extension that displays your [ZAI Coding Plan](https://z.ai) quota usage as a TUI overlay dashboard.
 
 ## Usage
 
